@@ -24,3 +24,8 @@ article {
     margin: 20px 20px;
     min-height: 200px;
 }
+
+footer {
+    padding: 10px 20px;
+    border-top: 2px solid black;
+}
